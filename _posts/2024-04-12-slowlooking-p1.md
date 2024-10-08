@@ -31,17 +31,17 @@ The natural world is a rich place to practice “slow looking” by engaging in 
 
 
 ## References:
-Honoré, Carl. 2005. In Praise of Slowness: Challenging the Cult of Speed. San Francisco: HarperOne.
+- Honoré, Carl. 2005. In Praise of Slowness: Challenging the Cult of Speed. San Francisco: HarperOne.
 
-Berg, Maggie, and Barbara K. Seeber. 2013. “The Slow Professor: Challenging the Culture of Speed in Academy.” Transformative Dialogues: Teaching & Learning Journal 6 (3): 1–7.
+- Berg, Maggie, and Barbara K. Seeber. 2013. “The Slow Professor: Challenging the Culture of Speed in Academy.” Transformative Dialogues: Teaching & Learning Journal 6 (3): 1–7.
 
-Franzese, Alexis T., and Peter Felten. 2017. “Reflecting on Reflecting: Scholarship of Teaching and Learning as a Tool to Evaluate Contemplative Pedagogies.” International Journal for the Scholarship of Teaching and Learning 11 (1). https://doi.org/10.20429/ijsotl.2017.110108.
+- Franzese, Alexis T., and Peter Felten. 2017. “Reflecting on Reflecting: Scholarship of Teaching and Learning as a Tool to Evaluate Contemplative Pedagogies.” International Journal for the Scholarship of Teaching and Learning 11 (1). https://doi.org/10.20429/ijsotl.2017.110108.
 
-Tishman, S. (2017). Slow Looking: The Art and Practice of Learning Through Observation (1st ed.). Routledge. https://doi.org/10.4324/9781315283814
+- Tishman, S. (2017). Slow Looking: The Art and Practice of Learning Through Observation (1st ed.). Routledge. https://doi.org/10.4324/9781315283814
 
-Telling, K. (2019). Book Review Symposium: Maggie Berg and Barbara K Seeber, The Slow Professor: Challenging the Culture of Speed in the Academy by Kathryn Telling. Sociology, 53(1), 209-211. https://doi.org/10.1177/0038038518787970
+- Telling, K. (2019). Book Review Symposium: Maggie Berg and Barbara K Seeber, The Slow Professor: Challenging the Culture of Speed in the Academy by Kathryn Telling. Sociology, 53(1), 209-211. https://doi.org/10.1177/0038038518787970
 
-M’Balia, Thomas, and Marta Carvajal Regidor. 2021. “From “Slow” to “Being ‘Lazy’ and Slowing Down” and the Impact on Student Learning.” Teaching & Learning Inquiry 9 (2). https://doi.org/10.20343/teachlearninqu.9.2.12.
+- M’Balia, Thomas, and Marta Carvajal Regidor. 2021. “From “Slow” to “Being ‘Lazy’ and Slowing Down” and the Impact on Student Learning.” Teaching & Learning Inquiry 9 (2). https://doi.org/10.20343/teachlearninqu.9.2.12.
 
-Supple, Briony, and James G. R. Cronin. 2023. “A Pedagogy of Slow: Integrating Experiences of Physical and Virtual Gallery Spaces to Foster Critical Engagement in SoTL”. Teaching and Learning Inquiry 11 (January). https://doi.org/10.20343/teachlearninqu.11.2.
+- Supple, Briony, and James G. R. Cronin. 2023. “A Pedagogy of Slow: Integrating Experiences of Physical and Virtual Gallery Spaces to Foster Critical Engagement in SoTL”. Teaching and Learning Inquiry 11 (January). https://doi.org/10.20343/teachlearninqu.11.2.
 
