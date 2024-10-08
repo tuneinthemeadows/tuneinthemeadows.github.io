@@ -58,11 +58,11 @@ scientific concepts like cohesion, but the real growth I've seen in my students 
 to slow down, and to explore the world around them.
 
 
-(*) **Your child can spend anywhere from 15 minutes to an hour in their Sit Spot, depending on their age and how comfortable they 
+(*) *Your child can spend anywhere from 15 minutes to an hour in their Sit Spot, depending on their age and how comfortable they 
 are outside. It’s common for kids to struggle with sitting still for long, which is why having a Sit Spot is so beneficial. 
 As your child gets more used to their Sit Spot, you can introduce "Noticing the Details" writing or drawing. This activity 
 involves observing a natural object closely and describing its shape, texture, smell, and color in detail. Encourage your 
-child to really focus on the object and discover details they might have overlooked at first glance.**
+child to really focus on the object and discover details they might have overlooked at first glance.*
 
 
 ## References:
