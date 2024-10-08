@@ -5,16 +5,7 @@ subtitle: "Notes from the Teaching and Learning Field"
 categories: [content, demo]
 ---
 
-Yes, there's so much life to be discovered in nature. I mentioned in the post “Understanding the World through “Slow Looking” (Part 1)”.
-And Wheatley (2006) wonders why we tend to quickly settle on a single idea, structure, or perception or cling to the notion that there's 
-an objective "truth." 
-She questions the common belief that there's only one way to approach or understand something, pointing out that the universe is filled 
-with diversity and countless interpretations. 
-Practicing “slow-looking” and deep observation invites learners (including teachers and students) to connect with their surroundings deeply,  
-enabling them to see not just with their eyes but all their senses, including their emotional and spiritual senses.
-
-<!--more--
-
+Yes, there's so much life to be discovered in nature. I mentioned in the post “Understanding the World through “Slow Looking” (Part 1)”. And Wheatley (2006) wonders why we tend to quickly settle on a single idea, structure, or perception or cling to the notion that there's an objective "truth." She questions the common belief that there's only one way to approach or understand something, pointing out that the universe is filled with diversity and countless interpretations. Practicing “slow-looking” and deep observation invites learners (including teachers and students) to connect with their surroundings deeply, enabling them to see not just with their eyes but all their senses, including their emotional and spiritual senses.
 
 
 ## Does it involve mindfulness and meditation? 
